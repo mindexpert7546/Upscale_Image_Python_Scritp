@@ -9,10 +9,10 @@ url = 'https://api.stability.ai/v2beta/stable-image/upscale/fast'
 # url = 'https://api.stability.ai/v2beta/stable-image/upscale/conservative'
 
 # Input Directory : Directory (You May change it.)
-input_folder = '/content/InputImages/' 
+input_folder = 'InputImages/' 
 
 # Output Directory : After upscale where you will save the image
-output_folder = '/content/OutputImages' 
+output_folder = 'OutputImages/' 
 
 # Create the output folder if it doesn't exist
 if not os.path.exists(output_folder):
