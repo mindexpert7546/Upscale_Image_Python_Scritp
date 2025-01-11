@@ -1,6 +1,6 @@
 # Step to run and use this code on Google Colab : 
 
-1. Open the Google Colab Script : link - https://colab.research.google.com/drive/1jG5X2fWCuEtDkQ48rOZJ9wYYATV0JZA4?usp=sharing
+1. Open the Google Colab Script : link - https://colab.research.google.com/drive/1iWFLYukgmc0yj3CRLW90r7V5M5TelzXZ?usp=sharing
 
 2. Click the mentioned step:
 
